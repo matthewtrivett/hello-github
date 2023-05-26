@@ -2,7 +2,7 @@
 First Repository to learn GitHub by following the hello-world guide: [GitHub Hello World Guide][github-hello-world-guide]
 
 ## Purpose
-Experiment with Branches, Commits, Pull Requests and Merges
+Experiment with Branches, Commits, Pull Requests and Merges.
 
 ## Further Information:
 [GitHub Quickstart][github-quickstart]
