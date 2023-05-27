@@ -3,5 +3,4 @@ This is a dummy file in which many small changes can be made independently of th
 
 [GitHub CLI Documentation][github-cli-documentation]
 
-[//]: # (Wrong link. Open a new Issue)
-[github-cli-documentation]: https://dos.gitub.cmde/gihub-ci
+[github-cli-documentation]: https://docs.github.com/de/github-cli
